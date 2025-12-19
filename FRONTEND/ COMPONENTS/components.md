@@ -12,6 +12,12 @@
 - **React Bits**  
   https://reactbits.dev/
 
+- **Hexta UI **  
+   https://www.hextaui.com/
+
+- **dimaac UI **  
+   https://ui.dimaac.com/
+
 - **Aceternity UI**  
   https://ui.aceternity.com/
 
