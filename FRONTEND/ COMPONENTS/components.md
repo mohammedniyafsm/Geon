@@ -11,11 +11,26 @@
 
 - **React Bits**  
   https://reactbits.dev/
+  
+- **Tripld**  
+  https://ui.tripled.work/
+  
+- **ElevanLabs**  
+  https://ui.elevenlabs.io/
+  
+- **Glitchcn**  
+  https://glitchcn-ui.vercel.app/
+  
+- **Mapcn**  
+  https://www.mapcn.dev/
+  
+- **thegridcn**  
+  https://thegridcn.com/
 
-- **Hexta UI **  
+- **Hexta UI**  
    https://www.hextaui.com/
 
-- **dimaac UI **  
+- **dimaac UI**  
    https://ui.dimaac.com/
 
 - **Aceternity UI**  
